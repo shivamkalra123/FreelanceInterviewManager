@@ -1,0 +1,35 @@
+/* Reschedule.css */
+
+.container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 40%;
+  position: absolute;
+  left: 50%;
+  right: 50%;
+  transform: translate(-50%, 50%);
+}
+
+.date-time-input {
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+
+.reschedule-button {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.reschedule-button:hover {
+  background-color: #45a049;
+}
